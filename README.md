@@ -4,7 +4,7 @@ This is a series of articles based on the LifeHacker series "How I work". http:/
 
 ## How do I participate?
 
-Write a blog post on your blog answering all of the questions below and be sure to include a link to the "This is How I Work" participants page. Once your article is complete and is live, either [open an issue here](https://github.com/adbertram/HowIWorkIT/issues/new) or submit a PR (if you know how to do that) to get your link added. I will be keeping a list of all participating bloggers here.
+Write a blog post on your blog answering all of the questions below and be sure to [include a link to the "This is How I Work" participants page](https://github.com/adbertram/HowIWorkIT/blob/master/ThisIsHowIWork.md). Once your article is complete and is live, either [open an issue here](https://github.com/adbertram/HowIWorkIT/issues/new) or submit a PR (if you know how to do that) to get your link added. I will be keeping a list of all participating bloggers here.
 
 - Where are you located?
 - What is/are your current gig(s):
