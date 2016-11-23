@@ -8,5 +8,4 @@ This is a list of all participants to the "How I Work" blog series.
 - Name: Josh King
   - Title: Network Infrastructure Support Officer
   - Link: [I'm Josh King, 'IT Pro,' and This Is How I Work](http://king.geek.nz/2016/11/24/how-i-work/)
-  - Available on: 11/24/16 (NZDT)
   - Twitter: [@WindosNZ](https://twitter.com/WindosNZ)
