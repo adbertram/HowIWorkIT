@@ -4,7 +4,6 @@ This is a list of all participants to the "How I Work" blog series.
   - Title: Senior Systems Automation Engineer
   - Twitter handle: [@adbertram](https://twitter.com/adbertram)
   - Link: [How I Work](http://www.adamtheautomator.com/__trashed/)
-  - Available on: 11/23/16
 
 - Name: Josh King
   - Title: Network Infrastructure Support Officer
