@@ -11,6 +11,6 @@ This is a list of all participants to the "How I Work" blog series.
   - Twitter: [@WindosNZ](https://twitter.com/WindosNZ)
 
 - Name: Josh Duffney
-- Title: DevOps Engineer
-- Link: [How I Work](http://duffney.io/JoshDuffney-How-I-Work)
-- Twitter: [@joshduffney](https://twitter.com/joshduffney)
+  - Title: DevOps Engineer
+  - Link: [How I Work](http://duffney.io/JoshDuffney-How-I-Work)
+  - Twitter: [@joshduffney](https://twitter.com/joshduffney)
