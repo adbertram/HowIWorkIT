@@ -20,3 +20,7 @@ This is a list of all participants to the "How I Work" blog series.
   - Link: [How I Work](https://msadministrator.com/2016/11/28/how-i-work/)
   - Twitter: [@MS_dministrator](https://twitter.com/MS_dministrator)
   
+- Name: Bryce McDonald
+  - Title: Solutions Engineer
+  - Link:  [How I Work IT](http://www.brycematthew.net/how/i/work/2016/11/30/how-I-work.html)
+  - Twitter: [@_brycemcdonald](https://twitter.com/_brycemcdonald)
