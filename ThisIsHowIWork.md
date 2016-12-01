@@ -22,5 +22,5 @@ This is a list of all participants to the "How I Work" blog series.
   
 - Name: Bryce McDonald
   - Title: Solutions Engineer
-  - Link:  [How I Work IT](http://www.brycematthew.net/how/i/work/2016/11/30/how-I-work.html)
+  - Link:  [How I Work IT](http://www.brycematthew.net/itpro/2016/11/30/how-I-work.html)
   - Twitter: [@_brycemcdonald](https://twitter.com/_brycemcdonald)
