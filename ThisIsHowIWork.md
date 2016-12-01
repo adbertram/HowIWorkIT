@@ -25,7 +25,7 @@ This is a list of all participants to the "How I Work" blog series.
   - Link:  [How I Work IT](http://www.brycematthew.net/itpro/2016/11/30/how-I-work.html)
   - Twitter: [@_brycemcdonald](https://twitter.com/_brycemcdonald)
 
-- Name: Bryce McDonald
+- Name: Daniel Spotter
   - Title: Sr. Systems Engineer
   - Link:  [How I Work IT](http://www.danielspotter.com/blog/2016/12/how-i-work)
   - Twitter: [@DanielSPotter1](https://twitter.com/DanielSPotter1)
