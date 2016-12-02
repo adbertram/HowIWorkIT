@@ -29,3 +29,8 @@ This is a list of all participants to the "How I Work" blog series.
   - Title: Sr. Systems Engineer
   - Link:  [How I Work IT](http://www.danielspotter.com/blog/2016/12/how-i-work)
   - Twitter: [@DanielSPotter1](https://twitter.com/DanielSPotter1)
+
+- Name: Thom Schumacher
+  - Title: Configuration Manager
+  - Link:  [How I Work](https://powershellposse.com/about/im-thom-and-this-is-how-i-work/)
+  - Twitter: [@driberif](https://twitter.com/driberif)
