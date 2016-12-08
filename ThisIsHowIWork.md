@@ -34,3 +34,8 @@ This is a list of all participants to the "How I Work" blog series.
   - Title: Configuration Manager
   - Link:  [How I Work](https://powershellposse.com/about/im-thom-and-this-is-how-i-work/)
   - Twitter: [@driberif](https://twitter.com/driberif)
+  
+ - Name: Chrissy LeMaire
+  - Title: Systems Engineer/DBA
+  - Link:  [How I Work](https://blog.netnerds.net/2016/12/this-is-how-i-work/)
+  - Twitter: [@driberif](https://twitter.com/cl)
