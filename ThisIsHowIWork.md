@@ -39,3 +39,8 @@ This is a list of all participants to the "How I Work" blog series.
   - Title: Systems Engineer/DBA
   - Link:  [How I Work](https://blog.netnerds.net/2016/12/this-is-how-i-work/)
   - Twitter: [@cl](https://twitter.com/cl)
+
+- Name: Colin Westwater
+  - Title: Server Administrator
+  - Link:  [How I Work](http://www.vgemba.net/2017/02/im-colin-westwater-and-this-is-how-i.html)
+  - Twitter: [@cwestwater](https://twitter.com/cwestwater)
