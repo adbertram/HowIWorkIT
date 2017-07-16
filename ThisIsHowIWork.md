@@ -42,5 +42,5 @@ This is a list of all participants to the "How I Work" blog series.
 
 - Name: Colin Westwater
   - Title: Server Administrator
-  - Link:  [How I Work](http://www.vgemba.net/2017/02/im-colin-westwater-and-this-is-how-i.html)
+  - Link:  [How I Work](http://www.vgemba.net/Im-Colin-Westwater-and-this-is-how-I-work/)
   - Twitter: [@cwestwater](https://twitter.com/cwestwater)
